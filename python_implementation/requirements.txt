@@ -1,0 +1,4 @@
+XlsxWriter
+boto3
+moto
+psutil
